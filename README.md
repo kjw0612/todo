@@ -1,11 +1,13 @@
 # Todo
 # Idea
 ## Image Restoration
-
 - Total Restoration 
+
 ### Single-Image Super-Resolution
 - Progressive SR
+
 ### Video Super-Resolution
+
 ### Deblurring
 - End-to-end deblur (without finding a kernel)
 
