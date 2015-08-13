@@ -24,6 +24,10 @@
 
 # Study
 
+# Questions
+
+- Can I convert nb into CVPR-formatted PDF directly?
+
 ## Courses
 
 - Stanford CS224d
