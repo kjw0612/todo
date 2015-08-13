@@ -1,3 +1,6 @@
+# Doing
+- Learn IPython Notebook by going through examples in the ipython offcial repository
+
 # Todo
 # Idea
 ## Image Restoration
