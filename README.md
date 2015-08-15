@@ -29,6 +29,10 @@
 
 # Study
 
+# Read 
+
+- http://papers.nips.cc/paper/5422-on-the-number-of-linear-regions-of-deep-neural-networks.pdf
+
 # Questions
 
 - Can I convert nb into CVPR-formatted PDF directly?
