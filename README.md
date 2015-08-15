@@ -1,5 +1,5 @@
 # Doing
-- Learn IPython Notebook by going through examples in the ipython offcial repository
+- DLSS 2015 Study All 
 
 # Todo
 # Idea
