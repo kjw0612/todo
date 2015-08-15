@@ -1,5 +1,5 @@
 # Doing
-- DLSS 2015 Study All 
+- DLSS 2015 Study All Day 1 (Bengio Done)
 
 # Assigns
 
