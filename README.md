@@ -1,6 +1,11 @@
 # Doing
 - DLSS 2015 Study All 
 
+# Assigns
+
+- Jonghyuk : JPEG Artifact removal 8/18
+- Jung Kwon : Restoration Framework 
+
 # Todo
 # Idea
 ## Image Restoration
