@@ -1,5 +1,5 @@
 # Doing
-- DLSS 2015 Study All Day 1 (Bengio Done)
+- DLSS 2015 Study All Day 2 (Hugo First One Done)
 - Studying various learning techniques - domain adaptation, one shot zero shot 
   - Domain-Adversarial Training of Neural Networks
 
