@@ -19,6 +19,7 @@
 
 ### Deblurring
 - End-to-end deblur (without finding a kernel)
+- Generative model. Capture the same scence twice (clean/blur). View it as a classfication problem (same scene positive, different scene negative). as in stereo cnn, first input image clean second blur. After several CNNs for each stream, they get concatenated and classification is done. After this, generative model is explored. When blur image and class (same scene, positive) are given, clean image is sampled. I need study for generative model for these stuffs.
 
 ## Semantic Segmentation
 
