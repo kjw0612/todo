@@ -1,4 +1,7 @@
 # Doing
+- Deblur. Comparing Image Patches 
+  - Learning to Compare Image Patches via Convolutional Neural Networks, CVPR 2015 http://imagine.enpc.fr/~zagoruys/deepcompare.html   
+  - FlowNet http://arxiv.org/abs/1504.06852
 - DLSS 2015 Study All Day 2 (Hugo First One Done)
 - Studying various learning techniques - domain adaptation, one shot zero shot 
   - Domain-Adversarial Training of Neural Networks
