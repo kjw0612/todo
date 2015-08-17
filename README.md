@@ -37,7 +37,14 @@
 
 - http://papers.nips.cc/paper/5422-on-the-number-of-linear-regions-of-deep-neural-networks.pdf
 - Adam: http://arxiv.org/pdf/1412.6980v8.pdf
-
+- Generative modeling
+  - VAE:Variational Autoencoder (Kingma et al., 2014), 85 cites
+  - DARN: Deep Autoregressive Networks (Gregor et al. 2014), 35 
+  - DRAW:DeepRecurrentAttentiveWriter(Gregoretal.2015), 18
+  - GAN: Generative Adversarial Networks (Goodfellow et al. 2014), 21 
+  - GSN: Generative Stochastic Networks (Bengio et al. 2014), 66
+  - DBM: deep Boltzmann machines (Salakhutdinov and Hinton, 2009), 456
+  - Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks, Fergus. 
 # Questions
 
 - Can I convert nb into CVPR-formatted PDF directly?
