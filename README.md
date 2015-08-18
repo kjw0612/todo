@@ -1,5 +1,5 @@
 # Doing
-- Deblur. Comparing Image Patches 
+- Comparing Image Patches. This idea can be applied to both SR and Deblur and more. 
   - Learning to Compare Image Patches via Convolutional Neural Networks, CVPR 2015 http://imagine.enpc.fr/~zagoruys/deepcompare.html   
   - FlowNet http://arxiv.org/abs/1504.06852
 - DLSS 2015 Study All Day 2 (Hugo First One Done)
