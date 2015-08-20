@@ -56,3 +56,6 @@
 
 - Stanford CS224d
 - Stanford CS231n
+
+## Misc.
+- https://www.youtube.com/watch?v=OcFOWIq3cIc
