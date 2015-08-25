@@ -16,6 +16,7 @@
 ## Image Restoration
 - Total Restoration 
 - Multi-Task Learning: priors shared between tasks. generalizing better to new tasks. 36p. of dlss-3aug2015.pdf (Bengio DLSS 2015)
+- Use results from semantic, object recognition, edge detection to do better sr
 
 ### Single-Image Super-Resolution
 - Progressive SR
