@@ -63,3 +63,7 @@
 
 ## Misc.
 - https://www.youtube.com/watch?v=OcFOWIq3cIc
+
+# AIKorea
+## Ideas
+- Record and explain popular posts (or translate) 
