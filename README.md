@@ -2,7 +2,6 @@
 - Comparing Image Patches. This idea can be applied to both SR and Deblur and more. 
   - Learning to Compare Image Patches via Convolutional Neural Networks, CVPR 2015 http://imagine.enpc.fr/~zagoruys/deepcompare.html   
   - FlowNet http://arxiv.org/abs/1504.06852
-- DLSS 2015 Study All Day 2 (Hugo First One Done)
 - Studying various learning techniques - domain adaptation, one shot zero shot 
   - Domain-Adversarial Training of Neural Networks
 
@@ -37,6 +36,8 @@
 
 # Study
 
+- ICLR Presentations with Video https://www.youtube.com/channel/UCqxFGrNL5nX10lS62bswp9w
+
 # Read 
 
 - http://papers.nips.cc/paper/5422-on-the-number-of-linear-regions-of-deep-neural-networks.pdf
@@ -49,6 +50,8 @@
   - GSN: Generative Stochastic Networks (Bengio et al. 2014), 66
   - DBM: deep Boltzmann machines (Salakhutdinov and Hinton, 2009), 456
   - Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks, Fergus. 
+  
+- 26 things learned from dlss 2015 http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/?utm_content=buffer4917d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 # Questions
 
 - Can I convert nb into CVPR-formatted PDF directly?
