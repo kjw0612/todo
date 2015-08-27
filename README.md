@@ -40,6 +40,7 @@
 
 # Read 
 
+- http://arxiv.org/pdf/1411.2539.pdf
 - http://papers.nips.cc/paper/5422-on-the-number-of-linear-regions-of-deep-neural-networks.pdf
 - Adam: http://arxiv.org/pdf/1412.6980v8.pdf
 - Generative modeling
