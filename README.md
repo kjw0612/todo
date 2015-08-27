@@ -52,7 +52,6 @@
   - DBM: deep Boltzmann machines (Salakhutdinov and Hinton, 2009), 456
   - Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks, Fergus. 
   
-- 26 things learned from dlss 2015 http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/?utm_content=buffer4917d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 # Questions
 
 - Can I convert nb into CVPR-formatted PDF directly?
