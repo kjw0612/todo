@@ -4,6 +4,7 @@
   - FlowNet http://arxiv.org/abs/1504.06852
 - Studying various learning techniques - domain adaptation, one shot zero shot 
   - Domain-Adversarial Training of Neural Networks
+- Studying LSTM http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 # Assigns
 
