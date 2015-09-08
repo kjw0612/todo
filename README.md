@@ -5,7 +5,7 @@
   - FlowNet http://arxiv.org/abs/1504.06852
 - Studying various learning techniques - domain adaptation, one shot zero shot 
   - Domain-Adversarial Training of Neural Networks
-- Studying LSTM http://colah.github.io/posts/2015-08-Understanding-LSTMs/ http://colah.github.io/archive.html
+- Content-aware prior http://people.csail.mit.edu/taegsang/Documents/ContentAwarePrior_CVPR2010.pdf
 
 # Assigns
 
