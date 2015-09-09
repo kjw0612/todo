@@ -6,6 +6,7 @@
 - Studying various learning techniques - domain adaptation, one shot zero shot 
   - Domain-Adversarial Training of Neural Networks
 - Content-aware prior http://people.csail.mit.edu/taegsang/Documents/ContentAwarePrior_CVPR2010.pdf
+- ICLR 2015 cohen and welling http://arxiv.org/pdf/1412.7659v3.pdf
 
 # Assigns
 
