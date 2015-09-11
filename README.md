@@ -1,8 +1,6 @@
 # Doing
-- http://arxiv.org/pdf/1506.06825v1.pdf
 - Comparing Image Patches. This idea can be applied to both SR and Deblur and more. 
   - Learning to Compare Image Patches via Convolutional Neural Networks, CVPR 2015 http://imagine.enpc.fr/~zagoruys/deepcompare.html   
-  - FlowNet http://arxiv.org/abs/1504.06852
 - Studying various learning techniques - domain adaptation, one shot zero shot 
   - Domain-Adversarial Training of Neural Networks
 - Content-aware prior http://people.csail.mit.edu/taegsang/Documents/ContentAwarePrior_CVPR2010.pdf
